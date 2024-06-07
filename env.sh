@@ -1,0 +1,1 @@
+export QUOTES_API_URL="https://api.quotable.io/random"
